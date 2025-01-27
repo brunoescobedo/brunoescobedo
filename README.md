@@ -6,7 +6,7 @@ Java TypeScript JavaScript HTML5 CSS3
 💾 DataBases
 MySQL Postgres
 
-📚 Frameworks and Libraries
+📚 Frameworks and Libraries \n
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 Angular Spring NodeJS
