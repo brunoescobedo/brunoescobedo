@@ -7,11 +7,11 @@ Java TypeScript JavaScript HTML5 CSS3
 MySQL Postgres
 
 📚 Frameworks and Libraries
-Bootstrap Angular Spring NodeJS
+[Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) Angular Spring NodeJS
 
 📫 How to reach me ...
-[Gmail
-](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 
 
 <!--
